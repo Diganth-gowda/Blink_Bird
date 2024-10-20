@@ -19,7 +19,7 @@ Requirements
 Installation
 Clone the repository:
 Copy code
-git clone https://github.com/YourUsername/Blink_Bird.git
+git clone https://github.com/Diganth-gowda/Blink_Bird.git
 
 Navigate to the directory:
 Copy code
